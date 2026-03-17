@@ -47,7 +47,7 @@
   "require": {
     "php": ">=8.2.0",
     "ext-mbstring": "*",
-    "silverorange/site": "^15.3.2",
+    "silverorange/site": "^16.0.0",
     "silverorange/swat": "^7.9.2"
   },
   "require-dev": {
